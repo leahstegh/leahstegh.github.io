@@ -1,0 +1,100 @@
+body{
+    background-color: pink;
+    padding: 50px;
+    width: 150; 
+}
+
+#recipe-title{
+    font-size: 40px;
+    color:#DB6C79;
+    background-color: white;
+    border: solid 10px hotpink;
+    border-radius:20px;
+
+}
+
+#recipe-img{
+    position: absolute;
+     top: 1000px;
+    left: 570px;
+    border:white 40px dashed;
+    border-radius:25px;
+}
+
+.step{
+    font-size:20px;
+    color:#ED4D6E;
+    padding:10px;
+
+}
+#ingredients{
+    font-size:20px;
+    color:#FF455A;
+    padding:10px;
+    background-color: white;
+    border: 10px solid hotpink;
+
+}
+
+#tip{
+    background-color: white;
+    font-style: italic;
+    color:#FF455A;
+    height:200px;
+    width:400px;
+    font-size:25px;
+    border: 10px solid hotpink;
+
+}
+
+.highlighted-ingredient{
+    color:black;
+    background-color: yellow;
+}
+
+#instructions{
+    background-color: antiquewhite;
+    border: 10px solid hotpink;
+    position:absolute;
+    left:900px;
+    top:1050px;
+}
+
+#directions{
+    position:absolute;
+    left:900px;
+    top:990px;
+    font-size: 40px;
+}
+
+#headingtip{
+    
+    font-size: 40px;
+}
+
+#history{
+    font-size:20px;
+    color:#FF455A;
+    padding:10px;
+    background-color: white;
+    border: 10px solid hotpink;
+}
+
+#historytitle{
+    font-size: 40px;
+    color:black;
+}
+
+#ingredientshead{
+    font-size: 40px;
+    color:black;
+}
+
+#videohead{
+    font-size: 40px;
+    color:black;
+}
+
+.navbar{
+    background-color: #FFAF85;
+}
